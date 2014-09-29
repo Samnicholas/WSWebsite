@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de">  <!--<![endif]-->
+<head>
+
+	<!-- META DATA -->
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+	<meta charset="UTF-8">
+	<title>Jarvis - One Page Parallax Template</title>
+    <meta name="description" content="A Template by RocknRolla Designs"/>
+    <meta name="keywords" content="HTML, CSS, JavaScript, PHP"/>
+    <meta name="author" content="RocknRolla Designs"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+	<!-- GOOGLE WEB FONTS INCLUDE -->
+	<link href='http://fonts.googleapis.com/css?family=Oswald|Open+Sans:400,600' rel='stylesheet' type='text/css'>
+	
+	<!-- JARVIS THEME STYLESHEETS -->
+     
+	<link rel="stylesheet" href="css/skeleton.css" type="text/css">
+	<link rel="stylesheet" href="css/reset.css" type="text/css">    
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="css/social.css" type="text/css">             
+	<link rel="stylesheet" href="css/flexslider.css" type="text/css">	
+	<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen"/><!-- PrettyPhoto -->	
+	<link rel="stylesheet" href="css/font-awesome.css" type="text/css"/><!-- PrettyPhoto -->  
+	<link rel="stylesheet" href="css/shortcodes.css" type="text/css"/>  	
+	<link rel="stylesheet" href="css/media.css"><!-- Media Queries -->
+        
+    
+ 	<link id="layout_color" href="css/light.css" rel="stylesheet" type="text/css"/>   
+    <link id="primary_color_scheme" href="css/colors/yellow.css" rel="stylesheet" type="text/css"/> 	<link id="layout_color" href="css/light.css" rel="stylesheet" type="text/css"/>   
+    <link id="primary_color_scheme" href="css/colors/blue.css" rel="stylesheet" type="text/css"/>      
+
+        <!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "15b7ccba-21ec-4960-926c-129e8b6f3fd4", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+		   
+    
+</head>
+
+ <body class="onepage" data-spy="scroll" data-target=".navigation">
+ <div id="load"></div>
+    	
+    
+    <!-- START PAGE WRAP -->    
+    <div class="page-wrap">
+    
+    
+	<!-- START HOME SECTION -->    
+	<div id="home" class="home-parallax home1">
+      <div class="home-text-wrapper">
+      
+          <div class="home-logo-text">
+            <a href="#about">Welcome to Jarvis</a>
+          </div>
+          
+      	   <div class="container clearfix">
+              <div class="home-quote">
+                <h1>
+                <span class="slabtext">Creativity always bleeds </span>
+                 <span class="slabtext second-child">from the touch</span>
+                 <span class="slabtext">of inspiration</span>
+                </h1>
+              </div>
+           </div><!-- END CONTAINER -->
+       </div><!-- END CS TEXT CONTAINER -->
+	</div>
+	<!-- END HOME SECTION -->
+	
+	
+    <!-- START NAVIGATION -->
+    <nav class="light sticky-nav navigation">
+     <!-- START CONTAINER -->	
+      <div class="container clearfix">			
+          <div class="four columns">			
+              <!-- START LOGO -->	
+              <div class="logo large">
+               <a href="#home"><img src="images/logo.png" title="logo" alt="Logo"/></a>
+              </div>
+              <!-- END LOGO -->			
+          </div><!-- END FOUR COLUMNS -->   
+          
+                   
+          <div class="twelve columns">            		
+              <!-- START NAVIGATION MENU ITEMS -->
+              <ul class="main-menu large nav" id="nav">
+                  <li><a href="#home">Home</a></li>                
+                  <li><a href="#about">Login to WOLAS</a></li>
+                  <li><a href="#team">Quick Courses</a></li>
+                  <li><a href="#services">Students & Employers</a></li>
+                  <li><a href="#portfolio">Apprenticeships & Traineeships</a></li>
+                  <li><a href="shortcodes.html">Funding</a></li>                  
+                  <li><a href="blog.html">Contact Us</a></li>                  
+                  <li><a href="#contact">Audit</a></li>
+              </ul>
+              <!-- END NAVIGATION MENU ITEMS -->				
+          </div><!-- END TWELVE COLUMNS -->	
+      </div><!-- END CONTAINER -->	
+    </nav>
+    <!-- END NAVIGATION -->
